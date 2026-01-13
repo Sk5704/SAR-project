@@ -78,4 +78,5 @@ The trained model successfully generates visually meaningful RGB images from SAR
 ---
 
 ## Author
-Aniruddha  
+Siddhi 
+
