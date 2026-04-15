@@ -216,4 +216,3 @@ npx supabase functions serve
 3. Deploy edge functions to your Supabase project: `npx supabase functions deploy`
 4. Ensure all secrets are configured in your Supabase project.
 
----
